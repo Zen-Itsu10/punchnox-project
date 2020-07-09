@@ -1,0 +1,26 @@
+
+
+{
+    "⚠️LISEZ LE FICHIER INSCRUCTION.MD AVANT DE COMPLETER LE CONFIG": "⚠️(ouvrire avec un éditeur de text comme sublime text, notepad++... ou ici: https://github.com/punchnox/punchnox-project/blob/master/README.md",
+
+    "token":  "TON TOKEN",
+    "prefix":  "TON PREFIX",
+    "image":  "le lien de l'image à mettre dans les embeds",
+    "color":  "nom de la couleur ou une couleur html",
+    "twitch":  "https://twitch.tv/punchnox ou ton lien twitch",
+    "nsfw": "on ou off",
+    "nitro_claimer": "on ou off",
+    "multi_status": ["multistream1",  "multistream2",  "multistream3"],
+    
+
+    "application_id": "l'id de ton application",
+    "imagerpc": "nom de l'image",
+    "title": "titre rich présence",
+    "details": "details rich présence",
+    "state": "state rich présence",
+    "largetext": "text de la grande l'image",
+    "smalltext": "text de la petite image",
+    "sizeplayer": "nombre de joueurs",
+    "sizeplayermax": "nombre max de joueurs"
+           
+}
