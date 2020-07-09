@@ -1,4 +1,4 @@
-```json
+
 #
 Bienvenue sur le punchnox-project
 Merci de votre confiance
@@ -14,14 +14,15 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
 
 
 -2 Ensuite mettez votre token dans le config.json,
-
+```json
 ///exemple
 ///laissez bien les guillemets comme dans l'exemple :
 "token":  "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE",
-
+```
 
 
 -3 Faites de même pour le prefix, l'image des embeds, la couleur, votre lien twitch, le nsfw, le nitro auto claimer et le multi stream.
+```json
 {
     "token": "votre token",
     "prefix":  "votre prefix ( . / * ect )",
@@ -32,11 +33,12 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
     "nitro_claimer": "on ou off",
     "multi_status": ["Votre multi stream 1 ",  "Votre multi stream 2 ",  "Votre multi stream 3 "]
     }
+    ```
 
 
 -4 Si vous ne comprenez pas je vous ai fais un exemple de quoi ça doit ressembler.
 
-
+```json
 {
 
     "token":  "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE",
@@ -62,10 +64,12 @@ https://discord.com/developers/applications/
 
 
 -Créez une nouvelle application comme dans le screenshot
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730718138953367582/tempsnip.png)
 
 
 -Cliquez sur "create" après avoir donné un nom à vôtre application
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730718437587943494/tempsnip.png)
 
 
@@ -77,6 +81,7 @@ https://discord.com/developers/applications/
 "application_id": "730718483599458365",
 ```
 (à la place de 730718483599458365 vous collez l'id de vôtre application.)
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730718938580779088/tempsnip.png)
 
 
@@ -85,22 +90,29 @@ https://discord.com/developers/applications/
 -Retournez sur discord devlopers puis allez sur "Rich Presence" et "Art Assets"
 -Cliquez sur "Add Image(s)"
 -Puis ajoutez une image
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730720335887859722/Sans_titre.png)
 
 
 -Donnez un nom à vôtre image
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730720955466252378/tempsnip.png)
 
 
 -Il vous reste à cliquer sur "Visualizer"
 -Et vous paramétrez vôtre Rich Presence
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730726405138284584/tempsnip.png)
 
 
 -Et pour finir vous mettez vos paramètres dans le config.json (pas besoin de faire "SMALL IMAGE KEY" et "START TIMESTAMP") comme sur le screenshot
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730726385118740520/Capture.PNG)
 
 Et voila le résultat :)
+
 ![ScreenShot](https://cdn.discordapp.com/attachments/726415763526647841/730726975865356338/Capture.PNG)
+
+
 
 Et voila le puchnox-project est à vous :)
