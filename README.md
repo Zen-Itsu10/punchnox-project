@@ -1,4 +1,4 @@
-```json
+
 #
 Bienvenue sur le punchnox-project
 Merci de votre confiance
@@ -22,6 +22,7 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
 
 
 -3 Faites de même pour le prefix, l'image des embeds, la couleur, votre lien twitch, le nsfw, le nitro auto claimer et le multi stream.
+```json
 {
     "token": "votre token",
     "prefix":  "votre prefix ( . / * ect )",
@@ -32,11 +33,12 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
     "nitro_claimer": "on ou off",
     "multi_status": ["Votre multi stream 1 ",  "Votre multi stream 2 ",  "Votre multi stream 3 "]
     }
+    ```
 
 
 -4 Si vous ne comprenez pas je vous ai fais un exemple de quoi ça doit ressembler.
 
-
+```json
 {
 
     "token":  "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE",
