@@ -8,6 +8,8 @@ Si vous voulez acheter le premium vous pouvez vous rendre sur ce serveur :
 
 comment configurer le selfbot ?
 
+(vous pouvez installer les modules à la main mais pour gagner du temps je les ai mis dans une archive donc vous avez juste à faire extraire l'archive)
+
 1- Récuperez votre token :
 https://www.youtube.com/watch?v=fv-H68OwsIA
 Vous pouvez regarder cette vidéo qui explique comment le récuperer
