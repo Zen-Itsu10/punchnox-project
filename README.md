@@ -8,6 +8,7 @@ Si vous voulez acheter le premium vous pouvez vous rendre sur ce serveur :
 
 comment configurer le selfbot ?
 
+-Vous deverez installer git pour les mises à jours vous n'etes pas obligé mais je le recomande https://git-scm.com/download/win
 (vous pouvez installer les modules à la main mais pour gagner du temps je les ai mis dans une archive donc vous avez juste à faire extraire l'archive)
 
 1- Récuperez votre token :
