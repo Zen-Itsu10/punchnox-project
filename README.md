@@ -59,6 +59,7 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
 Ensuite je vous ai faits une Riche présence custom que vous pourrez paramètrer dans le config.json
 
 ![ScreenShot](https://media.discordapp.net/attachments/726415763526647841/730716565049311322/unknown.png)
+
 seci est un exemple de riche présence custom pour la paramétrer rendez-vous  sur discord developers :
 
 https://discord.com/developers/applications/
@@ -77,6 +78,7 @@ https://discord.com/developers/applications/
 
 
 -Copiez le "CLIENT ID" (cliquez sur copier) comme sur le screenshot
+
 -Ensuite ouvrez le fichier config.json et mettez le client id que vous avez copié.
 ça devrait ressembler à ça :
 ```json
