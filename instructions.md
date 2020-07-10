@@ -8,7 +8,10 @@ Si vous voulez acheter le premium vous pouvez vous rendre sur ce serveur :
 
 comment configurer le selfbot ?
 
-(vous pouvez installer les modules à la main mais pour gagner du temps je les ai mis dans une archive donc vous avez juste à faire extraire l'archive)
+-Vous deverez installer git pour les mises à jours vous n'etes pas obligé mais je le recomande https://git-scm.com/download/win
+-Ensuite il vous faut installer les modules en exécutant le fichier "modules.pyw" ça peut prendre un certain temps donc il faut juste attendre.
+
+
 
 1- Récuperez votre token :
 https://www.youtube.com/watch?v=fv-H68OwsIA
@@ -24,6 +27,7 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
 
 
 -3 Faites de même pour le prefix, l'image des embeds, la couleur, votre lien twitch, le nsfw, le nitro auto claimer et le multi stream.
+
 ```json
 {
     "token": "votre token",
@@ -35,7 +39,7 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
     "nitro_claimer": "on ou off",
     "multi_status": ["Votre multi stream 1 ",  "Votre multi stream 2 ",  "Votre multi stream 3 "]
     }
-    ```
+```
 
 
 -4 Si vous ne comprenez pas je vous ai fais un exemple de quoi ça doit ressembler.
@@ -58,6 +62,7 @@ Vous pouvez regarder cette vidéo qui explique comment le récuperer
 Ensuite je vous ai faits une Riche présence custom que vous pourrez paramètrer dans le config.json
 
 ![ScreenShot](https://media.discordapp.net/attachments/726415763526647841/730716565049311322/unknown.png)
+
 seci est un exemple de riche présence custom pour la paramétrer rendez-vous  sur discord developers :
 
 https://discord.com/developers/applications/
@@ -76,6 +81,7 @@ https://discord.com/developers/applications/
 
 
 -Copiez le "CLIENT ID" (cliquez sur copier) comme sur le screenshot
+
 -Ensuite ouvrez le fichier config.json et mettez le client id que vous avez copié.
 ça devrait ressembler à ça :
 ```json
