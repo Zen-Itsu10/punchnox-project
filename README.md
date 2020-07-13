@@ -8,7 +8,6 @@ Si vous voulez acheter le premium vous pouvez vous rendre sur ce serveur :
 
 comment configurer le selfbot ?
 
--Vous deverez installer git pour les mises à jours vous n'êtes pas obligé mais je le recomande https://git-scm.com/download/win
 -Ensuite il vous faut installer les modules en exécutant le fichier "modules.pyw" ça peut prendre un certain temps donc il faut juste attendre. si vous ne voulez pas les installer de cette façon je les ai mis dans une archive "node_modules.rar" il vous faut juste l'extraire dans le dossier punchnox-project.
 
 
