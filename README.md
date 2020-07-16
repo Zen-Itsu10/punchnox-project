@@ -62,7 +62,7 @@ Ensuite je vous ai faits une Riche présence custom que vous pourrez paramètrer
 
 ![ScreenShot](https://media.discordapp.net/attachments/726415763526647841/730716565049311322/unknown.png)
 
-seci est un exemple de riche présence custom pour la paramétrer rendez-vous  sur discord developers :
+ceci est un exemple de riche présence custom pour la paramétrer rendez-vous  sur discord developers :
 
 https://discord.com/developers/applications/
 
