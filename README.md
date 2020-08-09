@@ -4,7 +4,7 @@ Bienvenue sur le punchnox-project
 Merci de votre confiance
 
 Si vous voulez acheter le premium vous pouvez vous rendre sur ce serveur :
-`https://discord.gg/FMt8RJ5`
+`https://discord.gg/punchnox`
 
 comment configurer le selfbot ?
 
